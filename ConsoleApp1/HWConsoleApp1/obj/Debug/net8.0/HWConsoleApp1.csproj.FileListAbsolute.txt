@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\HomeWork2\ConsoleApp1\HWConsoleApp1\obj\Debug\net8.0\HWConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\HomeWork2\ConsoleApp1\HWConsoleApp1\obj\Debug\net8.0\HWConsoleApp1.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\HomeWork2\ConsoleApp1\HWConsoleApp1\obj\Debug\net8.0\HWConsoleApp1.AssemblyInfo.cs
+C:\Users\user\Desktop\HomeWork2\ConsoleApp1\HWConsoleApp1\obj\Debug\net8.0\HWConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\HomeWork2\ConsoleApp1\HWConsoleApp1\bin\Debug\net8.0\HWConsoleApp1.exe
+C:\Users\user\Desktop\HomeWork2\ConsoleApp1\HWConsoleApp1\bin\Debug\net8.0\HWConsoleApp1.deps.json
+C:\Users\user\Desktop\HomeWork2\ConsoleApp1\HWConsoleApp1\bin\Debug\net8.0\HWConsoleApp1.runtimeconfig.json
+C:\Users\user\Desktop\HomeWork2\ConsoleApp1\HWConsoleApp1\bin\Debug\net8.0\HWConsoleApp1.dll
+C:\Users\user\Desktop\HomeWork2\ConsoleApp1\HWConsoleApp1\bin\Debug\net8.0\HWConsoleApp1.pdb
+C:\Users\user\Desktop\HomeWork2\ConsoleApp1\HWConsoleApp1\obj\Debug\net8.0\HWConsoleApp1.dll
+C:\Users\user\Desktop\HomeWork2\ConsoleApp1\HWConsoleApp1\obj\Debug\net8.0\refint\HWConsoleApp1.dll
+C:\Users\user\Desktop\HomeWork2\ConsoleApp1\HWConsoleApp1\obj\Debug\net8.0\HWConsoleApp1.pdb
+C:\Users\user\Desktop\HomeWork2\ConsoleApp1\HWConsoleApp1\obj\Debug\net8.0\HWConsoleApp1.genruntimeconfig.cache
+C:\Users\user\Desktop\HomeWork2\ConsoleApp1\HWConsoleApp1\obj\Debug\net8.0\ref\HWConsoleApp1.dll
